@@ -2,4 +2,8 @@ master
 Test
 Test1
 TEST2
+<<<<<<< HEAD
 TEST65
+=======
+TEST3
+>>>>>>> d80f442f03d7a92f854ff2bcf59d1a32955c5f46
